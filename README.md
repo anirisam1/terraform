@@ -21,7 +21,7 @@
 
 [ссылка на конфиг terraform](https://github.com/anirisam1/terraform/blob/main/terra_configs)
 
-![terraform1.png](https://github.com/anirisam1/terraform/blob/main/img/terraform1.png)
+![terraform.png](https://github.com/anirisam1/terraform/blob/main/img/terraform.png)
 ![terraform2.png](https://github.com/anirisam1/terraform/blob/main/img/terraform2.png)
 ![terraform3.png](https://github.com/anirisam1/terraform/blob/main/img/terraform3.png)
 ![terraform4.png](https://github.com/anirisam1/terraform/blob/main/img/terraform4.png)
