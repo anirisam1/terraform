@@ -17,3 +17,17 @@
 
 Требуется установить nginx, залить при помощи Ansible конфигурационные файлы nginx и веб-ресурса.
 
+Скрины выполнения задания:
+
+![terraform1.png](https://github.com/anirisam1/terraform/blob/main/img/terraform1.png)
+![terraform2.png](https://github.com/anirisam1/terraform/blob/main/img/terraform2.png)
+![terraform3.png](https://github.com/anirisam1/terraform/blob/main/img/terraform3.png)
+![terraform4.png](https://github.com/anirisam1/terraform/blob/main/img/terraform4.png)
+![terraform5.png](https://github.com/anirisam1/terraform/blob/main/img/terraform5.png)
+![terraform6.png](https://github.com/anirisam1/terraform/blob/main/img/terraform6.png)
+![terraform.png](https://github.com/anirisam1/terraform/blob/main/img/terraform1.png)
+![terraform_yc_vm.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_yc_vm.png)
+![terraform_ansible.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_ansible.png)
+![terraform_nginx.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_nginx.png)
+
+[ссылка на плейбук](https://github.com/anirisam1/terraform/blob/main/playbooks/terra.yml)
