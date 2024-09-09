@@ -25,7 +25,6 @@
 ![terraform4.png](https://github.com/anirisam1/terraform/blob/main/img/terraform4.png)
 ![terraform5.png](https://github.com/anirisam1/terraform/blob/main/img/terraform5.png)
 ![terraform6.png](https://github.com/anirisam1/terraform/blob/main/img/terraform6.png)
-![terraform.png](https://github.com/anirisam1/terraform/blob/main/img/terraform1.png)
 ![terraform_yc_vm.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_yc_vm.png)
 ![terraform_ansible.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_ansible.png)
 ![terraform_nginx.png](https://github.com/anirisam1/terraform/blob/main/img/terraform_nginx.png)
