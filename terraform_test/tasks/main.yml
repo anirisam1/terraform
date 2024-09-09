@@ -1,0 +1,25 @@
+  - name: copy repo conf
+    copy:
+      src: nginx_repo.conf
+      dest: /etc/yum.repos.d/nginx.repo
+      owner: root
+      group: root
+      mode: 0644
+
+  - name: install repo utils
+    yum: 
+      name: yum-utils
+      state: present
+
+  - shell: yum-config-manager --enable nginx-mainline
+
+  - name: install nginx
+    yum: 
+      name: nginx
+      state: present
+
+  - name: enable on boot and start nginx
+    service:
+      name: nginx
+      state: started
+      enabled: yes

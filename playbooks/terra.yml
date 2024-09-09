@@ -1,0 +1,6 @@
+- name: zadanie terraform
+  hosts: terraform
+  become: yes
+  become_method: sudo
+  roles:
+    - terraform_test
